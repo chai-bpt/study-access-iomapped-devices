@@ -1,0 +1,1 @@
+cmd_/home/chaitanya/work/linking/study-access-iomapped-devices/rtc.mod := { echo  /home/chaitanya/work/linking/study-access-iomapped-devices/rtc.o;  echo; } > /home/chaitanya/work/linking/study-access-iomapped-devices/rtc.mod
